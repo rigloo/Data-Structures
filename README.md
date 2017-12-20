@@ -1,2 +1,3 @@
 # Data-Structures
-The data structures that I created  in my Data Structures class.
+The data structures that I created from scratch in my Data Structures class. (Written in Java)
+These include an ArrayList, LinearList, Hashtable, BinarySearchTree, and a BalancedTree. They are all generic so they can contain any type of object.
